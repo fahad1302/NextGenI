@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NextGen</string>
+    <string name="activity_products">Products</string>
+    <string name="activity_details">Product Details</string>
+</resources>
